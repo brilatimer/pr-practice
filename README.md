@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+Georgina S. Buenrostro
 
 ## Person C:
 
@@ -16,7 +16,7 @@ Morgan modified this!
 
 ## Person D:
 
-Person D should modify content here.
+Favorite-color.txt!
 
 ## Need inspiration?
 
